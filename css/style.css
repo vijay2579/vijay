@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* p {
+  color: green;
+}
+
+p {
+  color: red;
+}
+
+.content p {
+  color: green;
+}
+
+.content p:hover {
+  background-color: grey;
+  font-size: 30px;
+}
+
+.content p:nth-child(2) {
+  color: purple;
+}
+
+#first-tag {
+  color: blue;
+} */
+
+
+p {
+  border: 1px solid grey;
+  padding: 20px;
+}
