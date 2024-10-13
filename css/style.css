@@ -37,3 +37,21 @@ p {
   border: 1px solid grey;
   padding: 20px;
 }
+
+
+
+.container {
+  height: 300px;
+  width: 1000px;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+}
